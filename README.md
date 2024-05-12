@@ -1,5 +1,7 @@
 # Snippet generator for Visual Studio Code
 
+Original Author: adrianwilczynski (I think)
+
 ## How To
 
 ![How To](img/howTo.gif)
