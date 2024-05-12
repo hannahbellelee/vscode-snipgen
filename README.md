@@ -1,6 +1,7 @@
 # Snippet generator for Visual Studio Code
 
 Original Author: adrianwilczynski (I think)
+Current Url: [https://vscodesnippetgenerator.azurewebsites.net](https://vscodesnippetgenerator.azurewebsites.net/)
 
 ## How To
 
